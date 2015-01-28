@@ -1,0 +1,34 @@
+{
+    "pip-mini": {
+        "meta_version": "1.0",  
+        "name": "pip-mini", 
+        "author": "@pudquick",
+        "email": "",
+        "website": "https://gist.github.com/pudquick/cb7b6413a54162fd1c00",
+        "description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)",
+
+        "releases": [ 
+            {
+                "version": "1.0", 
+                "url": "https://gist.githubusercontent.com/pudquick/cb7b6413a54162fd1c00/raw/aef971de586a57b98c8b81d645fcf53699e185c9/pip-mini.py"
+            }
+        ]
+    }, 
+
+    "ed": {
+        "meta_version": "1.0",  
+        "name": "ed", 
+        "author": "Yang Wang",
+        "email": "",
+        "website": "https://github.com/ywangd/ed-pythonista",
+        "description": "A poor man's text editor",
+
+        "releases": [ 
+            {
+                "version": "1.0", 
+                "url": "https://github.com/ywangd/ed-pythonista/archive/master.zip"
+            }
+        ]
+    } 
+}
+

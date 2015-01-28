@@ -1,0 +1,18 @@
+{
+    "meta_version": "1.0",
+    "name": "Pythonista Command Script Index",
+    "website": "https://github.com/ywangd/pythonista-command-script-index",
+
+    "commands": {
+        "pip-mini": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/pythonista-command-script-index/master/test.json#pip-mini"
+        },
+
+        "ed": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/pythonista-command-script-index/master/test.json#ed"
+        }
+
+    }
+
+
+}
