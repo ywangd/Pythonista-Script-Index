@@ -31,6 +31,22 @@
         ]
     }, 
 
+    "GitHubGet": {
+        "meta_version": "1.0",  
+        "name": "GitHubGet", 
+        "author": "@jsbain",
+        "email": "",
+        "website": "https://github.com/jsbain/GitHubGet",
+        "description": "Quick script to zip and download a repo from github",
+
+        "releases": [ 
+            {
+                "version": "1.0", 
+                "url": "https://raw.githubusercontent.com/jsbain/GitHubGet/master/GitHubGet.py"
+            }
+        ]
+    }, 
+
     "ed": {
         "meta_version": "1.0",  
         "name": "ed", 

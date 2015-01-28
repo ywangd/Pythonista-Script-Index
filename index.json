@@ -12,6 +12,10 @@
             "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#webdav"
         },
 
+        "GitHubGet": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#GitHubGet"
+        },
+
         "ed": {
             "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#ed"
         }
