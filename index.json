@@ -5,11 +5,15 @@
 
     "commands": {
         "pip-mini": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/test.json#pip-mini"
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#pip-mini"
+        },
+
+        "webdav": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#webdav"
         },
 
         "ed": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/test.json#ed"
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#ed"
         }
 
     }

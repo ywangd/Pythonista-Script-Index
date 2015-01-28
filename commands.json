@@ -15,6 +15,22 @@
         ]
     }, 
 
+    "webdav": {
+        "meta_version": "1.0",  
+        "name": "webdav", 
+        "author": "@wolf71",
+        "email": "",
+        "website": "https://github.com/wolf71/TinyWebDav",
+        "description": "A Single File,Tiny, Python WebDav Server",
+
+        "releases": [ 
+            {
+                "version": "1.0", 
+                "url": "https://raw.githubusercontent.com/wolf71/TinyWebDav/gh-pages/webdav.py"
+            }
+        ]
+    }, 
+
     "ed": {
         "meta_version": "1.0",  
         "name": "ed", 
