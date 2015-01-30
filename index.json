@@ -1,25 +1,33 @@
 {
     "meta_version": "1.0",
-    "name": "Pythonista Command Script Index",
-    "website": "https://github.com/ywangd/Pythonista-Command-Script-Index",
+    "name": "Pythonista Script Index",
+    "website": "https://github.com/ywangd/Pythonista-Script-Index",
 
-    "commands": {
+    "scripts": {
         "pip-mini": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#pip-mini"
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#pip-mini",
+            "description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)"
         },
 
         "webdav": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#webdav"
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#webdav",
+            "description": "A Single File,Tiny, Python WebDav Server" 
         },
 
         "GitHubGet": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#GitHubGet"
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#GitHubGet",
+            "description": "Quick script to zip and download a repo from github"
         },
 
         "ed": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Command-Script-Index/master/commands.json#ed"
-        }
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed",
+            "description": "Poor man's text editor"
+        },
 
+        "gitview": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitview",
+            "description": "Pythonista git wrapper"
+        }
     }
 
 

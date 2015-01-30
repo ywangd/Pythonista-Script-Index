@@ -5,7 +5,7 @@
         "author": "@pudquick",
         "email": "",
         "website": "https://gist.github.com/pudquick/cb7b6413a54162fd1c00",
-        "description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)",
+        "long_description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)",
 
         "releases": [ 
             {
@@ -21,7 +21,7 @@
         "author": "@wolf71",
         "email": "",
         "website": "https://github.com/wolf71/TinyWebDav",
-        "description": "A Single File,Tiny, Python WebDav Server",
+        "long_description": "A Single File,Tiny, Python WebDav Server",
 
         "releases": [ 
             {
@@ -37,7 +37,7 @@
         "author": "@jsbain",
         "email": "",
         "website": "https://github.com/jsbain/GitHubGet",
-        "description": "Quick script to zip and download a repo from github",
+        "long_description": "Quick script to zip and download a repo from github",
 
         "releases": [ 
             {
@@ -53,12 +53,27 @@
         "author": "Yang Wang",
         "email": "",
         "website": "https://github.com/ywangd/ed-pythonista",
-        "description": "A poor man's text editor",
+        "long_description": "Poor man's text editor",
 
         "releases": [ 
             {
                 "version": "1.0", 
                 "url": "https://github.com/ywangd/ed-pythonista/archive/master.zip"
+            }
+        ]
+    },
+
+    "gitview": {
+        "meta_version": "1.0",  
+        "name": "gitview", 
+        "author": "@jsbain",
+        "email": "",
+        "website": "https://github.com/jsbain/gitview",
+        "long_description": "Pythonista git wrapper",
+
+        "releases": [ 
+            {
+                "url": "https://github.com/jsbain/gitview/archive/master.zip"
             }
         ]
     } 
