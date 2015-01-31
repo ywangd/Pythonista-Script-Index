@@ -9,7 +9,6 @@
 
         "releases": [ 
             {
-                "version": "1.0", 
                 "url": "https://gist.githubusercontent.com/pudquick/cb7b6413a54162fd1c00/raw/aef971de586a57b98c8b81d645fcf53699e185c9/pip-mini.py"
             }
         ]
@@ -25,7 +24,6 @@
 
         "releases": [ 
             {
-                "version": "1.0", 
                 "url": "https://raw.githubusercontent.com/wolf71/TinyWebDav/gh-pages/webdav.py"
             }
         ]
@@ -41,7 +39,6 @@
 
         "releases": [ 
             {
-                "version": "1.0", 
                 "url": "https://raw.githubusercontent.com/jsbain/GitHubGet/master/GitHubGet.py"
             }
         ]
@@ -58,7 +55,7 @@
         "releases": [ 
             {
                 "version": "1.0", 
-                "url": "https://github.com/ywangd/ed-pythonista/archive/master.zip"
+                "url": "https://raw.githubusercontent.com/ywangd/ed-pythonista/master/ed.py"
             }
         ]
     },
