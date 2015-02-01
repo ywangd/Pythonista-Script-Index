@@ -30,59 +30,59 @@
         },
 
         "shellista": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#shellista",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#shellista"
         },
 
         "editmenu": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#editmenu",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#editmenu"
         },
 
         "Snakeyes": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#Snakeyes",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#Snakeyes"
         },
 
         "filenav": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#filenav",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#filenav"
         },
 
         "PythonistaRSSReader": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#PythonistaRSSReader",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#PythonistaRSSReader"
         },
 
         "lastpass-pythonista": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#lastpass-pythonista",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#lastpass-pythonista"
         },
 
         "gitrepo": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitrepo",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitrepo"
         },
 
         "FileManager": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#FileManager",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#FileManager"
         },
 
         "ed": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed"
         },
 
         "SMBclient": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#SMBclient",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#SMBclient"
         },
 
         "youtube-dl": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#youtube-dl",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#youtube-dl"
         },
 
         "sftp-client": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#sftp-client",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#sftp-client"
         },
 
         "DropboxFilePicker": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxFilePicker",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxFilePicker"
         },
 
         "DropboxSync": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxSync",
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxSync"
         },
 
 
@@ -91,7 +91,7 @@
         "ped": {
             "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed",
             "description": "Poor man's text editor"
-        },
+        }
 
     }
 
