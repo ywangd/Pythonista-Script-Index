@@ -1,6 +1,13 @@
 # Pythonista Script Index
 
-The goal of this project is to build a central index for Pythonista scripts.
+Script search, installation and removal made easy in Pythonista.
+
+Proof-of-Concept project to setup a central Index for Pythonista Scripts. 
+The Index acts as a server to provide necessary information for a client
+program to manage search, installation and un-installation in Pythonista.
+Such a proof-of-concept client is psiclient ([Gist
+link](https://gist.github.com/ywangd/184b9e0e1e76d8b92063) or [GitHub
+repo](https://github.com/ywangd/psiclient)). 
 
 Note: It is currently in test phase and very primitive. Suggestions are welcome.
 
@@ -59,6 +66,7 @@ And a sample **Script Description File** is as follows:
         {
             "version": "1.0", 
             "url": "https://.../a_script.py" // url to download version 1.0 of the script
+            // Note: the client should always try to download a same-name pyui file
         },
 
         {
@@ -98,7 +106,7 @@ script. This allows multiple scripts to share a single **Script Definition File*
 
         "releases": [ 
             {
-                "version": "1.0", 
+                "url": "https://....", 
                 // ...
             }
         ]
@@ -112,6 +120,8 @@ script. This allows multiple scripts to share a single **Script Definition File*
 
 The current supportted file types are:
 * Single Python file - it is simply copied to the destination folder
+    * The client should always check whether a same name pyui file is available
+      at the same url and download it if one exists.
 * Single zip file - all contained files are extracted into a folder and place
   into the destination folder
 
