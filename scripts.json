@@ -605,6 +605,17 @@
         ]
     },
 
+    "chordcalc": {
+        "meta_version": "1.0",  
+        "author": "@polymerchm",
+        "website": "https://github.com/polymerchm/chordcalc",
+        "long_description": "Turning Gek S. Low's chordcalc python script into a full-featured chord calculator/player",
+        "releases": [ 
+            {
+                "url": "https://github.com/polymerchm/chordcalc/archive/master.zip"
+            }
+        ]
+    },
 
     "ped": {
         "meta_version": "1.0",  
