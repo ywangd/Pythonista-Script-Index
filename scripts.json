@@ -6,7 +6,6 @@
         "email": "",
         "website": "https://gist.github.com/pudquick/cb7b6413a54162fd1c00",
         "long_description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)",
-
         "releases": [ 
             {
                 "url": "https://gist.github.com/pudquick/cb7b6413a54162fd1c00"
@@ -14,14 +13,13 @@
         ]
     }, 
 
-    "webdav": {
+    "tinywebdav": {
         "meta_version": "1.0",  
-        "name": "webdav", 
+        "name": "tinywebdav", 
         "author": "@wolf71",
         "email": "",
         "website": "https://github.com/wolf71/TinyWebDav",
         "long_description": "A Single File,Tiny, Python WebDav Server",
-
         "releases": [ 
             {
                 "url": "https://raw.githubusercontent.com/wolf71/TinyWebDav/gh-pages/webdav.py"
@@ -36,29 +34,12 @@
         "email": "",
         "website": "https://github.com/jsbain/GitHubGet",
         "long_description": "Quick script to zip and download a repo from github",
-
         "releases": [ 
             {
                 "url": "https://raw.githubusercontent.com/jsbain/GitHubGet/master/GitHubGet.py"
             }
         ]
     }, 
-
-    "ed": {
-        "meta_version": "1.0",  
-        "name": "ed", 
-        "author": "Yang Wang",
-        "email": "",
-        "website": "https://github.com/ywangd/ed-pythonista",
-        "long_description": "Poor man's text editor",
-
-        "releases": [ 
-            {
-                "version": "1.0", 
-                "url": "https://raw.githubusercontent.com/ywangd/ed-pythonista/master/ed.py"
-            }
-        ]
-    },
 
     "gitview": {
         "meta_version": "1.0",  
@@ -67,12 +48,216 @@
         "email": "",
         "website": "https://github.com/jsbain/gitview",
         "long_description": "Pythonista git wrapper",
-
         "releases": [ 
             {
                 "url": "https://github.com/jsbain/gitview/archive/master.zip"
             }
         ]
-    } 
+    },
+ 
+    "stash": {
+        "meta_version": "1.0",  
+        "name": "stash", 
+        "author": "@ywangd",
+        "email": "",
+        "website": "https://github.com/ywangd/stash",
+        "long_description": "Pythonista Shell with UI, threading, command line auto-completion and history",
+        "releases": [ 
+            {
+                "version": "0.4.0",
+                "url": "https://github.com/ywangd/stash/archive/v0.4.0.zip"
+            }
+        ]
+    },
+
+    "shellista": {
+        "meta_version": "1.0",  
+        "name": "shellista", 
+        "author": "@pudquick, @transistor1",
+        "website": "https://github.com/transistor1/shellista",
+        "long_description": "iOS shell written for Pythonista",
+        "releases": [ 
+            {
+                "url": "https://github.com/transistor1/shellista/archive/master.zip"
+            }
+        ]
+    },
+
+
+    "editmenu": {
+        "meta_version": "1.0",  
+        "author": "@jsbain",
+        "website": "https://github.com/jsbain/editmenu",
+        "long_description": "Pythonista editor sidebar utilities",
+        "releases": [ 
+            {
+                "url": "https://github.com/jsbain/editmenu/archive/master.zip"
+            }
+        ]
+    },
+
+    "Snakeyes": {
+        "meta_version": "1.0",  
+        "author": "@Gerzer",
+        "website": "https://github.com/gerzer/snakeyes",
+        "long_description": "A simple code-completion system for Pythonista",
+        "releases": [ 
+            {
+                "url": "https://raw.githubusercontent.com/Gerzer/Snakeyes/master/Snakeyes.py"
+            }
+        ]
+    },
+
+    "filenav": {
+        "meta_version": "1.0",  
+        "author": "@dgelessus",
+        "website": "https://github.com/dgelessus/filenav",
+        "long_description": "A custom file system navigator for Pythonista",
+        "releases": [ 
+            {
+                "url": "https://github.com/dgelessus/filenav/archive/master.zip"
+            }
+        ]
+    },
+
+    "PythonistaRSSReader": {
+        "meta_version": "1.0",  
+        "author": "@dlo",
+        "website": "https://github.com/dlo/PythonistaRSSReader",
+        "long_description": "A simple RSS reader for Pythonista",
+        "releases": [ 
+            {
+                "url": "https://raw.githubusercontent.com/dlo/PythonistaRSSReader/master/RSS.py"
+            }
+        ]
+    },
+
+    "lastpass-pythonista": {
+        "meta_version": "1.0",  
+        "author": "@HyShai",
+        "website": "https://github.com/HyShai/lastpass-pythonista",
+        "long_description": "LastPass Python API, adapted for iOS - Pythonista",
+        "releases": [ 
+            {
+                "url": "https://github.com/HyShai/lastpass-pythonista/archive/master.zip"
+            }
+        ]
+    },
+
+    "gitrepo": {
+        "meta_version": "1.0",  
+        "author": "@Vik2015",
+        "website": "https://github.com/Vik2015/gitrepo",
+        "long_description": "Lightweight Pythonista utility to easily download repos, releases and gists from GitHub",
+        "releases": [ 
+            {
+                "url": "https://raw.githubusercontent.com/Vik2015/gitrepo/master/gitrepo.py"
+            }
+        ]
+    },
+
+    "FileManager": {
+        "meta_version": "1.0",  
+        "author": "@humberry",
+        "website": "https://github.com/humberry/FileManager",
+        "long_description": "UI file manager",
+        "releases": [ 
+            {
+                "url": "https://github.com/humberry/FileManager/archive/master.zip"
+            }
+        ]
+    },
+
+    "ed": {
+        "meta_version": "1.0",  
+        "author": "@jsbain",
+        "website": "https://github.com/jsbain/ed",
+        "long_description": "Editor in webview for pythonista",
+        "releases": [ 
+            {
+                "url": "https://github.com/jsbain/ed/archive/master.zip"
+            }
+        ]
+    },
+
+    "SMBclient": {
+        "meta_version": "1.0",  
+        "author": "@humberry",
+        "website": "https://github.com/humberry/SMBclient",
+        "long_description": "UI tool to access Samba/Windows-Shares",
+        "releases": [ 
+            {
+                "url": "https://github.com/humberry/SMBclient/archive/master.zip"
+            }
+        ]
+    },
+
+    "youtube-dl": {
+        "meta_version": "1.0",  
+        "author": "@HyShai",
+        "website": "https://github.com/HyShai/youtube-dl",
+        "long_description": "Small command-line program to download videos from YouTube.com and other video sites",
+        "releases": [ 
+            {
+                "url": "https://github.com/HyShai/youtube-dl/archive/ytdl-pythonista.zip"
+            }
+        ]
+    },
+
+    "sftp-client": {
+        "meta_version": "1.0",  
+        "author": "@humberry",
+        "website": "https://github.com/humberry/sftp-client",
+        "long_description": "Simple UI sftp client",
+        "releases": [ 
+            {
+                "url": "https://github.com/humberry/sftp-client/archive/master.zip"
+            }
+        ]
+    },
+
+    "DropboxFilePicker": {
+        "meta_version": "1.0",  
+        "name": "Dropbox File Picker",
+        "author": "@omz",
+        "website": "https://gist.github.com/omz/fb180c58c94526e2c40b",
+        "long_description": "Script to import a file from Dropbox into Pythonista",
+        "releases": [ 
+            {
+                "url": "https://gist.github.com/omz/fb180c58c94526e2c40b"
+            }
+        ]
+    },
+    
+    "DropboxSync": {
+        "meta_version": "1.0",  
+        "author": "@wrenoud, @sidewinder42",
+        "website": "https://gist.github.com/sidewinder42/8631794",
+        "long_description": "Dropbox File Synchronization",
+        "releases": [ 
+            {
+                "url": "https://gist.github.com/sidewinder42/8631794"
+            }
+        ]
+    },
+
+
+
+
+
+    "ped": {
+        "meta_version": "1.0",  
+        "name": "ped", 
+        "author": "@ywangd",
+        "email": "",
+        "website": "https://github.com/ywangd/ed-pythonista",
+        "long_description": "Poor man's text editor",
+        "releases": [ 
+            {
+                "url": "https://raw.githubusercontent.com/ywangd/ed-pythonista/master/ed.py"
+            }
+        ]
+    },
+
 }
 

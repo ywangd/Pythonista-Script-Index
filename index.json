@@ -9,8 +9,8 @@
             "description": "Minimal version of pip in a standalone form for handling pure python situations (Pythonista, etc.)"
         },
 
-        "webdav": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#webdav",
+        "tinywebdav": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#tinywebdav",
             "description": "A Single File,Tiny, Python WebDav Server" 
         },
 
@@ -19,16 +19,85 @@
             "description": "Quick script to zip and download a repo from github"
         },
 
+        "gitview": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitview",
+            "description": "Pythonista git wrapper"
+        },
+
+        "stash": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#stash",
+            "description": "Pythonista Shell"
+        },
+
+        "shellista": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#shellista",
+        },
+
+        "editmenu": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#editmenu",
+        },
+
+        "Snakeyes": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#Snakeyes",
+        },
+
+        "filenav": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#filenav",
+        },
+
+        "PythonistaRSSReader": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#PythonistaRSSReader",
+        },
+
+        "lastpass-pythonista": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#lastpass-pythonista",
+        },
+
+        "gitrepo": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitrepo",
+        },
+
+        "FileManager": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#FileManager",
+        },
+
         "ed": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed",
+        },
+
+        "SMBclient": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#SMBclient",
+        },
+
+        "youtube-dl": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#youtube-dl",
+        },
+
+        "sftp-client": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#sftp-client",
+        },
+
+        "DropboxFilePicker": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxFilePicker",
+        },
+
+        "DropboxSync": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxSync",
+        },
+
+
+
+
+        "ped": {
             "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ed",
             "description": "Poor man's text editor"
         },
 
-        "gitview": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gitview",
-            "description": "Pythonista git wrapper"
-        }
     }
 
 
 }
+
+
+
+
