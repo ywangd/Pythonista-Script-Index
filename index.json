@@ -85,6 +85,125 @@
             "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DropboxSync"
         },
 
+        "FontInstaller": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#FontInstaller"
+        },
+
+        "ShortcutGenerator": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ShortcutGenerator"
+        },
+
+        "GoogleSearch": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#GoogleSearch"
+        },
+
+        "watch_pythonista_forum": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#watch_pythonista_forum"
+        },
+
+        "github_download": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#github_download"
+        },
+
+        "MarkdownPDF": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#MarkdownPDF"
+        },
+
+        "filedownloader": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#filedownloader"
+        },
+
+        "gistcheck": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#gistcheck"
+        },
+
+        "PackUI": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#PackUI"
+        },
+
+        "Task-List": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#Task-List"
+        },
+
+        "ui-tutorial": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ui-tutorial"
+        },
+
+        "uicomponents": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#uicomponents"
+        },
+
+        "propertyListener": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#propertyListener"
+        },
+
+        "nav-view-example": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#nav-view-example"
+        },
+
+        "photo_ext": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#photo_ext"
+        },
+
+        "ShowLastPhotoMap": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ShowLastPhotoMap"
+        },
+
+        "easy_paint": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#easy_paint"
+        },
+
+        "minesweeper": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#minesweeper"
+        },
+
+        "CloudJump": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#CloudJump"
+        },
+
+        "CloudJump2": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#CloudJump2"
+        },
+
+        "TimesTablesTorture": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#TimesTablesTorture"
+        },
+
+        "JumpyOctopus": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#JumpyOctopus"
+        },
+
+        "SpaceShooter": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#SpaceShooter"
+        },
+
+        "monkey": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#monkey"
+        },
+
+        "DiceRoller": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#DiceRoller"
+        },
+
+        "SpaceInvaders": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#SpaceInvaders"
+        },
+
+        "MazeCraze": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#MazeCraze"
+        },
+
+        "2048_Clone": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#2048_Clone"
+        },
+
+        "ripoff": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#ripoff"
+        },
+
+        "Breakout_Clone": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#Breakout_Clone"
+        },
 
 
 
@@ -97,7 +216,5 @@
 
 
 }
-
-
 
 
