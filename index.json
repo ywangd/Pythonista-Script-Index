@@ -24,8 +24,8 @@
             "description": "Pythonista git wrapper"
         },
 
-        "stash": {
-            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#stash",
+        "StaSh": {
+            "meta_url": "https://raw.githubusercontent.com/ywangd/Pythonista-Script-Index/master/scripts.json#StaSh",
             "description": "Pythonista Shell"
         },
 
